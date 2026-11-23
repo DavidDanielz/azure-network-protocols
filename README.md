@@ -18,8 +18,6 @@ Microsoft Azure | Network Security Groups | Wireshark | Windows Server | Ubuntu 
 
 </div>
 
-**Video walkthrough:** [YouTube: Azure NSGs and Wireshark](ADD-YOUR-LINK-HERE)
-
 ---
 
 ## 📋 Project Overview
